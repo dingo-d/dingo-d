@@ -26,6 +26,9 @@ I was a team representative at wordpress.org's Themes Team few years back. I mos
 
 I mostly work on client projects. If you have a backend heavy project you need help with, feel free to contact me. Also if you'd like to sponsor me to work on the above mentioned open source projects, I'd be thrilled 😄
 
+I also created and maintain the [WordPress integration tests with PestPHP
+](https://github.com/dingo-d/wp-pest-integration-test-setup/) package. Super proud of that one 🙂
+
 ## My GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dingo-d)
