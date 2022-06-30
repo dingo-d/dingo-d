@@ -24,6 +24,8 @@ I was a team representative at wordpress.org's Themes Team few years back. I mos
 
 ## What I do now?
 
+Currenlty I'm working on creating a WordPress course for the [Infinum Academy](https://academy.infinum.com/course/wordpress/), where I'll be a lecturer.
+
 I mostly work on client projects. If you have a backend heavy project you need help with, feel free to contact me. Also if you'd like to sponsor me to work on the above mentioned open source projects, I'd be thrilled 😄
 
 I also created and maintain the [WordPress integration tests with PestPHP
