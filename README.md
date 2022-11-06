@@ -10,6 +10,8 @@ In my spare time I like to write tutorials and things I think about on my [perso
 
 You can also find me on [twitter](https://twitter.com/made_by_denis) where I'll either rant about the state of my country (wich is poor atm), or share something about programming that I find out (and I find interesting).
 
+I also have a [mastodon](https://phpc.social/@made_by_denis) account that I plan on using for more PHP/Programming related topics.
+
 ## Projects I like to help out
 
 - [WordPress Coding Standards](https://github.com/WordPress/WordPress-Coding-Standards)
@@ -24,7 +26,7 @@ I was a team representative at wordpress.org's Themes Team few years back. I mos
 
 ## What I do now?
 
-Currenlty I'm working on creating a WordPress course for the [Infinum Academy](https://academy.infinum.com/course/wordpress/), where I'll be a lecturer.
+Currenlty I'm tinkering with parsing MJML with PHP. It's fun 😅
 
 I mostly work on client projects. If you have a backend heavy project you need help with, feel free to contact me. Also if you'd like to sponsor me to work on the above mentioned open source projects, I'd be thrilled 😄
 
