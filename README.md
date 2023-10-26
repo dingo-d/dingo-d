@@ -8,8 +8,6 @@ Croatian based, like to work with WordPress and Laravel. I've also done some Sym
 
 In my spare time I like to write tutorials and things I think about on my [personal blog](https://madebydenis.com).
 
-You can also find me on [twitter](https://twitter.com/made_by_denis) where I'll either rant about the state of my country (wich is poor atm), or share something about programming that I find out (and I find interesting).
-
 I also have a [mastodon](https://phpc.social/@made_by_denis) account that I plan on using for more PHP/Programming related topics.
 
 ## Projects I like to help out
