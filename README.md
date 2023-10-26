@@ -2,9 +2,9 @@
 
 Thanks for checking my repos out. I hope you find something useful.
 
-I'm a primarily PHP developer, but I know JavaScript, and can write a bash script or two when needed.
+I'm a primarily PHP developer, but I know JavaScript and can write a bash script or two when needed.
 
-Croatian based, like to work with WordPress and Laravel. I've also done some Symfony training, so if you give me a Symfony project to work on, I won't be lost 😄.
+Croatian-based, like to work with WordPress and Laravel. I've also done some Symfony training, so if you give me a Symfony project to work on, I won't be lost 😄.
 
 In my spare time I like to write tutorials and things I think about on my [personal blog](https://madebydenis.com).
 
@@ -18,15 +18,17 @@ I also have a [mastodon](https://phpc.social/@made_by_denis) account that I plan
 
 ## What I've worked on in the past
 
-I've worked as a WordPress Engineer at [Infinum](https://infinum.com) where I helped establish their WordPress team and the practices within the team (seting up coding standards and best practices, writing handbook, managing team, hiring, etc.).
-I still work on some of their open source projects in my spare time 🙂
-I was a team representative at wordpress.org's Themes Team few years back. I mostly worked on automated tools and establising some processes within the team with the rest of the team reps.
+I've worked as a WordPress Engineer at [Infinum](https://infinum.com) where I helped establish their WordPress team and the practices within the team (setting up coding standards and best practices, writing a handbook, managing a team, hiring, etc.).
+I still work on some of their open-source projects in my spare time 🙂
+I was a team representative at wordpress.org's Themes Team a few years back. I mostly worked on automated tools and established some processes within the team with the rest of the team reps.
 
-## What I do now?
+## What do I do now?
 
-Currenlty I'm tinkering with parsing MJML with PHP. It's fun 😅
+Most of my working hours these days are spent on client work.
 
-I mostly work on client projects. If you have a backend heavy project you need help with, feel free to contact me. Also if you'd like to sponsor me to work on the above mentioned open source projects, I'd be thrilled 😄
+On the personal projects side, which I'd like to work on more (but don't because I value my work-life balance), is tinkering with parsing MJML with PHP. It's fun 😅
+
+If you have a backend-heavy project you need help with, feel free to contact me. Also, if you'd like to sponsor me to work on the above-mentioned open-source projects, I'd be thrilled 😄
 
 I also created and maintain the [WordPress integration tests with PestPHP
 ](https://github.com/dingo-d/wp-pest-integration-test-setup/) package. Super proud of that one 🙂
