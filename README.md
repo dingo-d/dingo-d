@@ -26,12 +26,12 @@ I was a team representative at wordpress.org's Themes Team a few years back. I m
 
 Most of my working hours these days are spent on client work.
 
-On the personal projects side, which I'd like to work on more (but don't because I value my work-life balance), is tinkering with parsing MJML with PHP. It's fun 😅
+On the personal projects side, which I'd like to work on more (but don't because I value my work-life balance), is tinkering with [parsing MJML with PHP](https://github.com/dingo-d/php-mjml-renderer). It's fun 😅
+
+I created and maintain the [WordPress integration tests with PestPHP
+](https://github.com/dingo-d/wp-pest-integration-test-setup/) package. Super proud of that one 🙂
 
 If you have a backend-heavy project you need help with, feel free to contact me. Also, if you'd like to sponsor me to work on the above-mentioned open-source projects, I'd be thrilled 😄
-
-I also created and maintain the [WordPress integration tests with PestPHP
-](https://github.com/dingo-d/wp-pest-integration-test-setup/) package. Super proud of that one 🙂
 
 ## My GitHub stats
 
