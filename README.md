@@ -2,11 +2,11 @@
 
 Thanks for checking my repos out. I hope you find something useful.
 
-I'm a primarily PHP developer, but I know JavaScript and can write a bash script or two when needed.
+I'm primarily a PHP developer, but I know JavaScript and can write a bash script or two when needed.
 
 Croatian-based, like to work with WordPress and Laravel. I've also done some Symfony training, so if you give me a Symfony project to work on, I won't be lost 😄.
 
-In my spare time I like to write tutorials and things I think about on my [personal blog](https://madebydenis.com).
+In my spare time, I like to write tutorials and post thoughts on my [personal blog](https://madebydenis.com).
 
 I also have a [mastodon](https://phpc.social/@made_by_denis) account that I plan on using for more PHP/Programming related topics.
 
@@ -18,7 +18,7 @@ I also have a [mastodon](https://phpc.social/@made_by_denis) account that I plan
 
 ## What do I do now?
 
-At the moment I am employed as a Web Development Expert at [Infobip](https://www.infobip.com). I'm a part of their web team, working on all sorts of interesting projects.
+I am currently employed as a Web Development Expert at [Infobip](https://www.infobip.com). I'm a part of their web team, working on many interesting projects.
 
 On the personal projects side, which I'd like to work on more (but don't because I value my work-life balance), is tinkering with [parsing MJML with PHP](https://github.com/dingo-d/php-mjml-renderer). It's fun 😅
 
